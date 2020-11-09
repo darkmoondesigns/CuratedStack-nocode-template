@@ -6,12 +6,12 @@
     "description": "Wir optimieren den Rest für Sie."
   },
   "footer": {
-    "title": "Any tool to suggest?",
-    "description": "Any idea? Any amazing tool forgotten? Feel free to send it!",
+    "title": "Kontaktieren Sie uns.",
+    "description": "Für Fragen zu Details helfen wir Ihnen gerne weiter.",
     "copyright": "Made with ❤️ in Europe 🇪🇺 by ",
     "author": {
-      "name": "Sandoche",
-      "website": "https://www.sandoche.com"
+      "name": "Philipp Meier",
+      "website": "-"
     }
   },
   "buttons": {
@@ -19,7 +19,7 @@
       "back": "Back"
     },
     "footer": {
-      "contact": "Contact"
+      "contact": "Kontakt"
     }
   },
   "lunr-module": {
